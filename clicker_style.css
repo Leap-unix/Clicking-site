@@ -1,0 +1,12 @@
+
+.main_btn{
+    background-color: aqua;
+    background-image: url(https://media3.giphy.com/media/NCrJHctBgdz8EdPBM9/200w.gif?cid=6c09b952qejwq9ycnhgb0zx5lxz6upb6s89jst4zlygiwbn7&ep=v1_videos_search&rid=200w.gif&ct=v);
+    background-size: contain;
+    width: 500px;
+    height: 500px;
+
+}
+.main_btn:hover{
+    background-color: blue;
+}
